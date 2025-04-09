@@ -28,3 +28,6 @@ Welcome to my personal learning notes repository! Here, I'll be documenting ever
   - when rendering a list of items we should give each item a unique key(when using the map method)
 
 #### Conditional Rendering
+
+- JSX does not support if statements, so we can store the condition in a variable then embedd it in the code
+- We can use a ternary operator in jsx
