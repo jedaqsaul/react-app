@@ -43,3 +43,4 @@ Welcome to my personal learning notes repository! Here, I'll be documenting ever
 - let us try to highlight an item when we click it
 - use a css class in bootstrap called active
   -A hook - this is a function that allows us to tap into built in features in react
+- useState tells react that we have a component that will change over time;
