@@ -9,3 +9,10 @@ Welcome to my personal learning notes repository! Here, I'll be documenting ever
 - Managing state
 - Passing input via props
 - Debugging React apps
+
+#### Creating a ListGroup Component
+
+- install bootstrap to give our application a modern look and feel
+- Bootstrap is a common css library
+- In my project i used npm to install bootstrap@5.2.3
+- used this line {import "bootstrap/dist/css/bootstrap-grid.css";} to import it to main.tsx
