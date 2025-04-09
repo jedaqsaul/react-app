@@ -16,3 +16,4 @@ Welcome to my personal learning notes repository! Here, I'll be documenting ever
 - Bootstrap is a common css library
 - In my project i used npm to install bootstrap@5.2.3
 - used this line {import "bootstrap/dist/css/bootstrap-grid.css";} to import it to main.tsx
+- It is a common and important practice to have a component folder for all components
