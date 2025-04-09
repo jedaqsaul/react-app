@@ -23,4 +23,8 @@ Welcome to my personal learning notes repository! Here, I'll be documenting ever
 
 #### Rendering Lists
 
--
+- How can we dynamically generate the list?
+  -In JSX for loops do not exists
+  - when rendering a list of items we should give each item a unique key(when using the map method)
+
+#### Conditional Rendering
