@@ -31,3 +31,14 @@ Welcome to my personal learning notes repository! Here, I'll be documenting ever
 
 - JSX does not support if statements, so we can store the condition in a variable then embedd it in the code
 - We can use a ternary operator in jsx
+
+#### Handling events
+
+- In react each element has a property called onclick
+- We have to specify the type of event for type safety eg MouseEvent- This is called type annotation
+- Beauty of typescript: auto-completion, type safety and it become easier to refactor/restructure our code
+
+#### Managing state
+
+- let us try to highlight an item when we click it
+- use a css class in bootstrap called active
