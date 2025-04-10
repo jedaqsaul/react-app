@@ -51,3 +51,20 @@ Welcome to my personal learning notes repository! Here, I'll be documenting ever
 - How can we make components reusable -Use props
 - Typescript feature called an interface
 - Using interface we can define the shape or the interface of an object
+- We use props to add data to our components
+
+#### Passing functions via props
+
+#### State vs Props
+
+- Props- input passed to a component , similar to function arguments, immutable, cause a re-render
+- state- Data managed by a component, similar to local variables, mutable cause a re-render
+- Passing children
+
+#### Passing Children
+
+- Using the children prop we can pass children to a component
+
+#### Inspecting Components with React Dev Tools
+
+- Install the react Developer tools extension
