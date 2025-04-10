@@ -68,3 +68,5 @@ Welcome to my personal learning notes repository! Here, I'll be documenting ever
 #### Inspecting Components with React Dev Tools
 
 - Install the react Developer tools extension
+
+#### Final: Building a Button Component
